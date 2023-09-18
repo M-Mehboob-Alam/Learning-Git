@@ -1,0 +1,8 @@
+git reset command to unstage
+
+git reset 
+
+
+to reverse back changes 
+
+git reset --hard 
